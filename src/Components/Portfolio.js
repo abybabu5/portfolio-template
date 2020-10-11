@@ -6,7 +6,7 @@ class Portfolio extends Component {
     if (this.props.data) {
       var projects = this.props.data.projects.map(function (projects) {
         var projectImage = 'images/portfolio/' + projects.image;
-        
+
         return (
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
@@ -19,6 +19,12 @@ class Portfolio extends Component {
                   </div>
                 </div>
               </a>
+            </div>
+            <div className="repo-url">
+            <a href={projects.githubRepo}
+               rel="noopener noreferrer"
+               target="_blank"
+            > <p style={{color:"#6E757C",fontStyle:"italic", fontWeight:"bold"}}>RepoUrl</p></a>
             </div>
           </div>
         )
