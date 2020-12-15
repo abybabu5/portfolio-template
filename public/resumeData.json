@@ -4,7 +4,7 @@
     "role": "Frontend Web Developer",
     "description": "Hi, I am Aby Babu!\uD83D\uDC4B  I am a Frontend web developer and I use reactjs to develop web applications, based in Milan.",
     "image": "profilepic.jpg",
-    "bio": "My name is <b>Aby Babu</b>.\nI am an English-language professional- Web Developer, services consultant working with people and organisations in the field of <b>Information Technology in Italy</b>. <br/>\nI have finished <b>MERN</b> Full-Stack Development course from <b>Strive\nSchool Berlin (Batch Oct19).</b> Presently I am working in <b><a href=\"https://www.retapps.com/\" style=\"text-decoration: none, color: black \" rel=\"noopener noreferrer\" target=\"_blank\"> RetApps Srl</a></b> Milan as\n<b> Frontend Developer- Reactjs. </b> I offer a broad application of skills across a diverse range of professional service functions -from training and coaching to project consulting -with a clear focus on supporting public policy organisations and objectives. <b>Software Development and Web</b> Design Provider, providing best in quality and class technologies for my clients.",
+    "bio": "My name is <b>Aby Babu</b>.\nI am an English-language professional- Web Developer, services consultant working with people and organisations in the field of <b>Information Technology in Italy</b>. <br/>\nI have finished <b>MERN</b> Full-Stack Development course from <b>Strive\nSchool Berlin (Batch Oct19).</b> Presently I am looking for new opportunities in Milan or work from remote as<b> Frontend Developer- Reactjs. </b>",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "abyitahse(@)gmail.com",
     "phone": "+39 3246945616",
@@ -46,7 +46,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am a javascript enthusiast and currently working with reactjs to develop one of the smart commerce app in Italy ",
+    "skillmessage": "I am a javascript enthusiast and I had my internship at www.retapps.com ",
     "education": [
       {
         "school": "Strive School",
@@ -59,7 +59,7 @@
       {
         "company": "RetApps Srl",
         "title": "React Developer",
-        "years": "July 2020 - Present",
+        "years": "July 2020 - December 2020",
         "description": ""
       }
     ],
@@ -120,14 +120,6 @@
         "image": "/covid19-cover.PNG",
         "url": "http://covid19.abybabu.it/",
         "githubRepo": "https://github.com/abybabu5/covid19-dashboardV1-italy"
-      }
-    ,
-      {
-        "title": "CHIERI MY-STORES",
-        "category": "E- Commerce",
-        "image": "/chieri-cover.JPG",
-        "url": "https://chieri.my-stores.it/app/",
-        "githubRepo": "https://chieri.my-stores.it/app/"
       }
     ]
   }
