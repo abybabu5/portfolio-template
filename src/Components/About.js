@@ -34,7 +34,8 @@ class About extends Component {
                         <p  dangerouslySetInnerHTML={{
                             __html: bio && bio.replace(/\n/gi, '<br />'),
                         }}></p>
-                        <div><hr/>
+                        <div>
+                            <br/><hr/>
                         </div>
                         <div className="about-me">
                             <div className="about-me-icons">

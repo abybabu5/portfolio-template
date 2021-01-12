@@ -60,7 +60,7 @@
         "company": "RetApps Srl",
         "title": "React Developer",
         "years": "July 2020 - December 2020",
-        "description": ""
+        "description": "Development of responsive web applications using Reactjs, Sass,\nBootstrap for eCommerce.\nEnvironment: HTML, CSS, JavaScript, AJAX, JSON, XML"
       }
     ],
     "skills": [
@@ -99,6 +99,12 @@
         "image": "/spotify-cover.JPG",
         "url": "http://spotify-deezer-api-fe.herokuapp.com/",
         "githubRepo": "https://github.com/abybabu5/spotify-deezer-aby"
+      },
+      {"title": "Ecommerce Fullstack",
+        "category": "Learning & Development",
+        "image": "/ecommerce_cover.JPG",
+        "url": "https://e-clone-ad92b.web.app/",
+        "githubRepo": "https://github.com/abybabu5/ecommerce-fullstack"
       },
       {
         "title": "Ideal Place to Work FE",
